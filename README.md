@@ -24,6 +24,7 @@ well as a `render` function, so you can get a sense of how they'll work.
 
 1. Write a function called `createStore` that takes in a
    reducer function as an argument.
+   
 2. The `createStore` function should return an object with two methods -
    `getState`, `dispatch`.
 
